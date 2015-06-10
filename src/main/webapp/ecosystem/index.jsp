@@ -17,6 +17,10 @@
 
     <ul>
         <li>
+            <a rel="nofollow" href="http://www.askidaselenium.com">ASKIDA for Selenium</a> -
+            run all Selenium scripts all the time to test entire business process.
+        </li>
+        <li>
             <a rel="nofollow" href="http://saucelabs.com">Sauce Labs</a> -
             cloud-based service to run Selenium tests faster and more easily.
         </li>
